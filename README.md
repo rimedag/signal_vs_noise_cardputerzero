@@ -7,6 +7,11 @@ This public repository contains install instructions and binary package
 downloads. The development source lives in the private/local NoirSonance Gitea
 repository.
 
+## Screenshots
+
+![Signal vs Noise start](assets/screenshots/start.png)
+![Signal vs Noise distill](assets/screenshots/distill.png)
+
 ## Install
 
 Use the install helper:
