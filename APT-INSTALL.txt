@@ -1,3 +1,3 @@
-echo "deb [trusted=yes] https://rimedag.github.io/signalvsnoise_cardputerzero stable main" | sudo tee /etc/apt/sources.list.d/noirsonance-signal-vs-noise.list
+echo "deb [trusted=yes] https://rimedag.github.io/signal_vs_noise_cardputerzero stable main" | sudo tee /etc/apt/sources.list.d/noirsonance-signal-vs-noise.list
 sudo apt update
 sudo apt install signal-vs-noise
