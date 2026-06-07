@@ -3,9 +3,14 @@
 Offline writing distillation tool for NoirSonance Cardputer Zero and regular
 Linux desktops.
 
-This public repository contains install instructions and binary package
-downloads. The development source lives in the private/local NoirSonance Gitea
-repository.
+Signal vs Noise helps turn messy input into one useful sentence. Start with an idea, lyric, or note, then compress it through staged limits until the final signal is clear enough to keep.
+
+Features:
+
+- Guided compression stages from raw text to final signal.
+- Idea, lyric, and note entry modes.
+- Optional hard mode for stricter focus.
+- Local archive for kept signals.
 
 ## Screenshots
 
@@ -54,5 +59,3 @@ Public downloads are architecture-specific binary builds:
 
 - `amd64` for regular Linux desktops and laptops.
 - `arm64` for Cardputer Zero and 64-bit Raspberry Pi OS.
-
-The public `.deb` files do not contain the app's readable Python source files.
