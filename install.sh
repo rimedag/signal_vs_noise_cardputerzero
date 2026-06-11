@@ -28,7 +28,7 @@ curl -fL "$url" -o "${tmp_dir}/${asset}"
 echo "Installing Signal vs Noise..."
 (
     cd "$tmp_dir"
-    sudo apt install "./${asset}"
+    sudo apt install -y "./${asset}"
 )
 
 echo "Done. Launch with: signal-vs-noise-desktop, signal-vs-noise-cardputerzero, or signal-vs-noise"
