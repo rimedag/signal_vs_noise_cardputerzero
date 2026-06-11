@@ -29,8 +29,8 @@ Or download the package for your machine:
 
 ```bash
 ARCH="$(dpkg --print-architecture)"
-curl -LO "https://raw.githubusercontent.com/rimedag/signal_vs_noise_cardputerzero/main/pool/main/s/signal-vs-noise/signal-vs-noise_0.1.0-noirsonance1_${ARCH}.deb"
-sudo apt install "./signal-vs-noise_0.1.0-noirsonance1_${ARCH}.deb"
+curl -LO "https://raw.githubusercontent.com/rimedag/signal_vs_noise_cardputerzero/main/pool/main/s/signal-vs-noise/signal-vs-noise_0.1.0-noirsonance2_${ARCH}.deb"
+sudo apt install "./signal-vs-noise_0.1.0-noirsonance2_${ARCH}.deb"
 ```
 
 ## Launch

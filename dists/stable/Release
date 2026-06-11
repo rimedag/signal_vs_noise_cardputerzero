@@ -2,17 +2,17 @@ Origin: NoirSonance
 Label: Signal vs Noise
 Suite: stable
 Codename: stable
-Date: Sun, 07 Jun 2026 06:57:19 GMT
+Date: Thu, 11 Jun 2026 08:18:43 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Signal vs Noise public APT repository
 MD5Sum:
- 98a67944073c0a2a7105a176d1bc3ea5              593 main/binary-amd64/Packages
- 0ef037892e772159d3a84eab44e03e3c              421 main/binary-amd64/Packages.gz
- 38b2760d4949e229b7b8d312b62f9d54              593 main/binary-arm64/Packages
- 3b2518d192126b5d9fefb0ce02fb6a57              422 main/binary-arm64/Packages.gz
+ cc9b91baf4a235e10206bebde02206b5              593 main/binary-amd64/Packages
+ bafc13ba70ebfe904519bff3cffd560d              421 main/binary-amd64/Packages.gz
+ eaa40ff32688eccc3ef798cc33d8745c              593 main/binary-arm64/Packages
+ 03447298db41f38a0c819701a8b7c23a              418 main/binary-arm64/Packages.gz
 SHA256:
- 3f6317fe64ef77625f094ff71ccc5e749800b80a895d0f7a5e4beb807c940aea              593 main/binary-amd64/Packages
- a05c19df64f09e8455a5f3568221cf2d4d376777130e13f9d91d8328ab02558c              421 main/binary-amd64/Packages.gz
- d8fa810cc2799f3a52b67e08d97d6632a6fde4178cc9b4394d25c5c9425ace2e              593 main/binary-arm64/Packages
- 3aa6912fcfa69419534bbad31b227b5bd5700c214d559016b53031979f9d7234              422 main/binary-arm64/Packages.gz
+ 672642fd2cf2d4c4ef7fa0a036091ab884689208c1250d3fe1940fa2f11db7de              593 main/binary-amd64/Packages
+ d297d975f425ccbe02445b12756063b0aa18cb57fbc39428c1d989e0b4ac8820              421 main/binary-amd64/Packages.gz
+ 016eff55bff1c4ea156bc78bd82cd152559f1be98d3cd83809c02921c3ace58b              593 main/binary-arm64/Packages
+ ffdd74a2e81827865969d592a0215364033f8fac574ced3ff49260d890f2eb71              418 main/binary-arm64/Packages.gz

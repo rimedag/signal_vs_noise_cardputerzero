@@ -1,13 +1,13 @@
 Package: signal-vs-noise
-Version: 0.1.0-noirsonance1
+Version: 0.1.0-noirsonance2
 Architecture: amd64
 Maintainer: NoirSonance <noreply@noirsonance.local>
 Section: utils
 Priority: optional
 Depends: libc6 (>= 2.36), zlib1g, fonts-dejavu-core, libx11-6, libxext6, libxft2, libfontconfig1
 Description: Offline writing distillation tool for CardputerZero
-Filename: pool/main/s/signal-vs-noise/signal-vs-noise_0.1.0-noirsonance1_amd64.deb
-Size: 29874432
-MD5sum: d60d67508321f0670ee30ad683838e7d
-SHA1: 810d8147a8b332ed18392b964da948b6ba7589c6
-SHA256: 3bd27aede8384a3ce7630dc16fd296e1327365fafc0bdca33df57fbf33b70cb8
+Filename: pool/main/s/signal-vs-noise/signal-vs-noise_0.1.0-noirsonance2_amd64.deb
+Size: 29877472
+MD5sum: 142d463993cb2fb2e334ec6977a32047
+SHA1: 716325ce02254ebbf440e861d4eec727486ccae1
+SHA256: a0d1648033db11a9d71d6334dcc83cf38f23fb70f0ecaf94f9ce7a778ff0a792
